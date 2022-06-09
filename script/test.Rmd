@@ -1,0 +1,10 @@
+---
+title: "Untitled"
+author: "Rachel Arrick"
+date: '2022-06-09'
+output: html_document
+---
+```{r}
+library(tidyverse)
+```
+
